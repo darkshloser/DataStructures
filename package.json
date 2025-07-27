@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "jest": "^30.0.5",
+    "mocha": "^11.7.1"
+  }
+}

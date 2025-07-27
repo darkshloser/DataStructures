@@ -1,3 +1,10 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -50,6 +57,23 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.Python
+.env
+.venv
+.pytest_cache/
+
+
+# macOS / Linux
+.DS_Store
+*.swp
+
 
 # Translations
 *.mo
